@@ -1,0 +1,2 @@
+python_igraph==0.7.1.post6
+tqdm==4.10.0
