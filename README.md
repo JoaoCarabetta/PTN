@@ -37,8 +37,8 @@ https://www.researchgate.net/profile/Sandro_Sousa3
 
 **Instructions:**
 
-* Place your GTFS data in the corresponding folder named _gtfs_  
-* Add a folder named _result_ to store data from simulations  
+* Run 'pip install -r requirements.txt' to install all the required modules'
+* Place your GTFS data in the corresponding folder named _gtfs_ 
 * Check file path and adjust it according to your needs  
 
 For more Information about GTFS format, please check:  
